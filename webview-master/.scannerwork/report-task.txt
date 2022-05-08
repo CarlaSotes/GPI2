@@ -1,0 +1,6 @@
+projectKey=webview
+serverUrl=http://localhost:9000
+serverVersion=8.6.0.39681
+dashboardUrl=http://localhost:9000/dashboard?id=webview
+ceTaskId=AYCOwyBZe67cyToBXJ_4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYCOwyBZe67cyToBXJ_4
